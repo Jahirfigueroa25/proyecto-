@@ -10,13 +10,12 @@ baseurl: "/fresh" # the subpath of your site, e.g. /blog
 url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: #Add your Facebook
-twitter: #Add your Twitter
-google-plus: #Add your Google+
-github: #Add your Github
+facebook: https://www.facebook.com/jahir.figueroa.90
+twitter: https://twitter.com/Jahir36844815
+github: https://github.com/Jahirfigueroa25
 
 # Contact form
-email: #your-email@domain.com
+email: jahiredu2001@hotmail.com
 
 # Comments
 discus-identifier: # Add your Disqus identifier
